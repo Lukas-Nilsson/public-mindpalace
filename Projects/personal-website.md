@@ -9,7 +9,7 @@ tags:
   - github
   - obsidian
   - ai
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # Personal Website

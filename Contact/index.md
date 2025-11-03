@@ -4,7 +4,7 @@ summary: Ways to connect and collaborate.
 publish: true
 tags:
   - contact
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # Contact

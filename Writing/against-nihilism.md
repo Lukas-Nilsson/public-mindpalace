@@ -6,7 +6,7 @@ tags:
   - writing
   - meaning
   - mindset
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # Against Nihilism
@@ -22,3 +22,5 @@ A practical stance:
 - Watch compounding: results become reasons; reasons create meaning.
 
 Meaning isn’t handed to you. It’s built—by turning intentions into evidence.
+
+<!-- Internal: Draft collaboratively written/edited with AI on 2025-11-03. Reviewed by Lukas Nilsson. -->

@@ -4,7 +4,7 @@ summary: Product designer and engineer focused on clear, reliable outcomes.
 publish: true
 tags:
   - about
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # About

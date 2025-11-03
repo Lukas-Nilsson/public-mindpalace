@@ -7,7 +7,7 @@ tags:
   - systems
   - behavior
   - design
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # The Short‑Term World
@@ -42,3 +42,5 @@ Long‑term thinking is not a mood. It’s a set of constraints that make the fu
 ## Bottom line
 
 Short‑term systems are default. Long‑term systems are designed. Choose them on purpose.
+
+<!-- Internal: Draft collaboratively written/edited with AI on 2025-11-03. Reviewed by Lukas Nilsson. -->

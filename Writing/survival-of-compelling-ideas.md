@@ -7,7 +7,7 @@ tags:
   - ideas
   - culture
   - evidence
-updated: 2025-11-03
+updated: 2025-11-04
 ---
 
 # The Survival of Compelling Ideas
@@ -24,3 +24,5 @@ Environments matter. A culture that rewards explanation and testing will favor i
 Truth still matters. Over time, ideas that predict accurately and help people do real work tend to outcompete those that don’t—especially in domains where feedback is clear (engineering, science, markets).
 
 If you want an idea to survive, improve its fitness: sharpen the claim, show the evidence, make the use case obvious, and build the smallest network that proves it.
+
+<!-- Internal: Draft collaboratively written/edited with AI on 2025-11-03. Reviewed by Lukas Nilsson. -->
