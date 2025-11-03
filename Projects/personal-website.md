@@ -1,82 +1,87 @@
 ---
 title: Personal Website
-summary: A GitHub-hosted personal portfolio and publishing system connected to my Obsidian knowledge base.
+summary: Rebuilding my personal website as a self-hosted, automated portfolio that documents itself.
 publish: true
 tags:
+  - web development
   - automation
   - portfolio
-  - markdown
   - github
-  - web-development
+  - obsidian
+  - ai
 updated: 2025-11-03
 ---
 
 # Personal Website
 
 ## Overview
-This project involved rebuilding my personal website to act as both a portfolio and a public publishing system.  
-It connects my private Obsidian vault to a public GitHub repository, automatically syncing selected Markdown files that are tagged for publication.
+This project involved rebuilding my personal website from the ground up as both a **portfolio** and a **publishing system**.  
+It connects my private Obsidian vault (MindPalace) to a public GitHub repository, automatically syncing selected Markdown files that are tagged for publication.
 
-The result is a professional, self-maintained website that showcases my work, writing, and projects using an efficient, developer-friendly workflow.
+The page you are reading now is part of that same system — a project entry published through the pipeline it describes.  
+In total, this setup was completed in roughly **five hours** using **Cursor** and various **AI tools** to assist with planning, scripting, and copy generation.
 
 ---
 
 ## Objectives
-- Create a **modern personal website** hosted on GitHub Pages with no ongoing hosting costs.  
-- Develop a **public publishing pipeline** from Obsidian to GitHub using a simple automation script.  
-- Build a **portfolio framework** that reflects both design and technical skills.  
-- Maintain **clear separation** between private and public data.  
+- Create a **self-hosted personal website** with zero ongoing hosting cost.  
+- Build a **public publishing workflow** between Obsidian and GitHub Pages.  
+- Integrate **AI-assisted development** for speed, consistency, and automation.  
+- Keep the final product **transparent** and version-controlled — a portfolio that documents its own creation.  
 
 ---
 
 ## Key Work
+
 ### Architecture
-- Set up a **two-repo system**:
-  - `mindpalace` (private): full Obsidian vault.  
-  - `public-mindpalace` (public): contains only Markdown files marked as publishable.  
-- Implemented a **sync script** (`push_public.sh`) using `rsync` and Git to mirror `/Public` content into the public repo.
-- Ensured reliable publishing from local edits to live site via a single command.
+- Established a two-repository structure:
+  - `mindpalace` – private Obsidian vault containing all notes and development files.  
+  - `public-mindpalace` – public repository automatically updated with only tagged public Markdown files.
+- Wrote a Bash script (`push_public.sh`) to sync `/Public` from the private vault into the public repo using `rsync` and `git`.  
+- Verified that Obsidian, Git, and GitHub Pages all work together without a backend or server.
 
 ### Design & Content
-- Built a **minimal homepage** featuring personal identity, tagline, and featured work.  
-- Structured `/Public` folder into clear categories:
-  - `/Projects` – portfolio case studies  
-  - `/Writing` – essays and notes  
-  - `/About` and `/Contact` – background and links
-- Defined Markdown frontmatter standards (`title`, `summary`, `publish`, `updated`).
+- Designed a minimal **homepage hero** with the core line:  
+  > “Lukas Nilsson — Coding humanity’s past into our future.”
+- Defined folder structure for publishable content:
+  - `/Public/Projects` – case studies and technical builds  
+  - `/Public/Writing` – essays and reflections  
+  - `/Public/About` and `/Public/Contact` – personal and professional info
+- Created frontmatter standards (`title`, `summary`, `tags`, `publish`, `updated`) to ensure all Markdown files can be parsed consistently.
 
-### Technology
-- **Hosting:** GitHub Pages (static)  
+### Toolchain
+- **Code & AI:** Built collaboratively using **Cursor** (AI-assisted IDE) and **ChatGPT** for rapid iteration.  
+- **Hosting:** GitHub Pages  
 - **Version Control:** Git + GitHub  
 - **Scripting:** Bash automation  
-- **Design Tools:** Figma for layout concepts, image generation for hero visuals  
-- **Future Integration:** Next.js or Astro for dynamic builds  
+- **Design:** Figma for layout concepts, AI image generation for visual direction.  
 
 ---
 
 ## Outcomes
-- Created a **fully version-controlled personal website** that requires no backend or CMS.  
-- Simplified the process of **publishing content directly from Obsidian**.  
-- Improved content organization through clear folder and tag systems.  
-- Reduced maintenance cost and dependency on third-party tools.  
+- Built a **maintainable personal site** with integrated publishing from Obsidian.  
+- Implemented a working example of **AI-assisted web development** — from file structure to launch.  
+- Established a scalable format for documenting future projects directly on the site itself.  
+- Created a professional framework that functions as both résumé and living archive.  
 
 ---
 
 ## Skills Demonstrated
-- Front-end architecture & static site deployment  
-- Git/GitHub workflow and automation scripting  
-- Markdown-based content management  
-- Design systems thinking and typography  
-- Data privacy and repo management  
+- Static site architecture & automation scripting  
+- Git/GitHub workflow and repository design  
+- AI-assisted development using Cursor and ChatGPT  
+- Markdown content management  
+- Design thinking and personal brand integration  
 
 ---
 
 ## Next Steps
-- Implement a **GitHub Action** for automatic syncing.  
-- Add an **AI summarization layer** for new public notes.  
-- Migrate visual design to **Next.js** for better scalability and performance.  
+- Add a **GitHub Action** for scheduled publishing.  
+- Integrate **Next.js** for a dynamic front-end experience.  
+- Build an **AI agent** to summarize and index new public notes automatically.  
 
 ---
 
+**Duration:** ~5 hours (planning, setup, and first deployment)  
 **Repository:** [github.com/Lukas-Nilsson/public-mindpalace](https://github.com/Lukas-Nilsson/public-mindpalace)  
-**Status:** In active development
+**Status:** Live and evolving
