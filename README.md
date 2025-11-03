@@ -317,4 +317,3 @@ Content is published here with the intent to share ideas openly. Feel free to re
 ---
 
 *For more on the system behind this, see [`/System/README.md`](./System/README.md)*
-
