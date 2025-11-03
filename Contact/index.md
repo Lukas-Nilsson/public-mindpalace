@@ -1,8 +1,8 @@
 ---
-title: "Contact"
-summary: "Ways to connect and collaborate."
+title: Contact
+summary: Ways to connect and collaborate.
 publish: true
-tags: [contact]
+tags: ["contact"]
 updated: 2025-11-03
 ---
 

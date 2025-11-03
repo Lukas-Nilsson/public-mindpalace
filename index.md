@@ -1,6 +1,6 @@
 ---
-title: "Lukas Nilsson"
-summary: "Product designer and engineer. Currently building The Human Archives."
+title: Lukas Nilsson
+summary: Product designer and engineer. Currently building The Human Archives.
 publish: true
 updated: 2025-11-03
 ---

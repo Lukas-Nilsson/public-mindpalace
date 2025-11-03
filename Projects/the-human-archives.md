@@ -1,8 +1,8 @@
 ---
-title: "The Human Archives"
+title: The Human Archives
 summary: "Clothing + digital stories. Role: founder, design & engineering. Status: in development."
 publish: true
-tags: [project]
+tags: ["project"]
 updated: 2025-11-03
 ---
 

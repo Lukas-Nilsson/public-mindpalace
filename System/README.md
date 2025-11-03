@@ -31,24 +31,48 @@ which powers my website and public profile.
 ---
 
 ## Publishing Logic
-1. Files inside `/Public` are considered *safe and intentional for publishing*.  
-2. Every `.md` file starts with frontmatter metadata:  
-   ```yaml
-   title: "The Human Archives"
-   summary: "A living museum of humanity woven through time, design, and technology."
-   publish: true
-   tags: [project, public]
-   updated: 2025-11-03
-   ```
-3. Files marked `publish: true` are mirrored to the public GitHub repo.  
-4. Files without that flag remain local (drafts) even if they’re in `/Public`.
+
+### Automatic Preparation
+
+Before publishing, content is automatically processed:
+
+1. **Gate Check** — Only files with `publish: true` are published
+2. **Link Rewriting** — Obsidian `[[wikilinks]]` are converted to proper markdown links
+3. **Media Handling** — Embedded images (`![[image.png]]`) are copied to `/Media` and paths updated
+4. **Frontmatter Normalization** — Missing `title` or `updated` fields are auto-filled
+5. **Link Validation** — Broken links cause publish to fail (prevents broken site)
+6. **Preview Mode** — Files with `preview: true` get a "Work in progress" banner
+
+### Frontmatter Requirements
+
+Every `.md` file needs:
+
+```yaml
+title: "The Human Archives"
+summary: "A living museum of humanity woven through time, design, and technology."
+publish: true    # REQUIRED: Only files with this are published
+tags: [project, public]
+updated: 2025-11-03  # Auto-set during publish if missing
+preview: false   # Optional: Adds "Work in progress" banner
+```
+
+### Using Obsidian Links
+
+You can use Obsidian syntax in `/Public` — it gets automatically converted:
+
+- `[[Note Name]]` → `[Note Name](/note-name/)`
+- `[[Note#Section]]` → `[Note](/note-name/#section)`
+- `[[Note|Custom Text]]` → `[Custom Text](/note-name/)`
+- `![[image.png]]` → `![image](/Media/image.png)`
+
+**Note:** Links to files that don't exist will cause publish to fail. This prevents broken links on your site.
 
 ---
 
 ## Safety & Privacy
 - Anything outside `/Public` stays **private** by design.  
-- Avoid Obsidian-only syntax like `[[links]]`; use relative Markdown links (`[About](../About/)`).  
-- Place images only in `/Public/Media/`.  
+- Obsidian syntax (`[[links]]`, `![[images]]`) is fine — automatically converted during publish.  
+- Place images in `/Public/Media/` or reference them from elsewhere (auto-copied during publish).  
 - Check frontmatter for hidden or sensitive metadata before syncing.  
 - The sync script excludes large assets (videos, raw exports, etc.).  
 - If a mistake occurs, history in the public repo can be rewritten safely with `git filter-repo`.
