@@ -14,11 +14,11 @@ Ways to connect, collaborate, or just say hello.
 
 ## Get in Touch
 
-**Email:** *Coming soon*
+**Email:** [lukasnilssonbusiness@gmail.com](mailto:lukasnilssonbusiness@gmail.com)
 
 **GitHub:** [@Lukas-Nilsson](https://github.com/Lukas-Nilsson)
 
-**LinkedIn:** *Coming soon*
+**LinkedIn:** [lukaspnilsson](https://www.linkedin.com/in/lukaspnilsson/)
 
 ---
 
