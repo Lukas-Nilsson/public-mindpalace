@@ -2,7 +2,7 @@
 
 Generated: 2025-11-04
 
-**Published:** 10 files
+**Published:** 13 files
 **Skipped:** 1 files
 **Warnings:** 0 issues
 
@@ -13,6 +13,9 @@ Generated: 2025-11-04
 - `Projects/the-human-archives.md`
 - `About/index.md`
 - `System/README.md`
+- `Coaching/corporate-training.md`
+- `Coaching/index.md`
+- `Coaching/approach.md`
 - `Writing/the-short-term-world.md`
 - `Writing/survival-of-compelling-ideas.md`
 - `Writing/index.md`
