@@ -38,6 +38,13 @@ I design and ship software with a focus on clarity, performance, and usefulness.
 
 ---
 
+## Selected work
+
+- [The Human Archives](/projects/the-human-archives/) — product, design system, content pipeline
+- [Personal Website](/projects/personal-website/) — Astro site with GitHub Pages + Obsidian sync
+
+---
+
 ## Links
 
 - Email: [lukasnilssonbusiness@gmail.com](mailto:lukasnilssonbusiness@gmail.com)
