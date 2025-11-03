@@ -15,7 +15,10 @@ Short notes on design, engineering, and systems. Longer pieces will be added ove
 
 ## Recent
 
-*New posts will appear here as they’re published.*
+- [The Short‑Term World](/writing/the-short-term-world/) — How short‑term incentives shape behavior—and how to reclaim the long view.
+- [The Weight of Translation](/writing/the-weight-of-translation/) — Thinking fast is easy; explaining clearly is hard—and that’s the point.
+- [The Survival of Compelling Ideas](/writing/survival-of-compelling-ideas/) — Why some ideas spread: fitness, environments, and evidence.
+- [Against Nihilism](/writing/against-nihilism/) — Meaning is built by turning intentions into evidence.
 
 ---
 
