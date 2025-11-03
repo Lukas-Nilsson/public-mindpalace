@@ -2,7 +2,8 @@
 title: About Lukas Nilsson
 summary: Product designer and engineer focused on clear, reliable outcomes.
 publish: true
-tags: ["about"]
+tags:
+  - about
 updated: 2025-11-03
 ---
 

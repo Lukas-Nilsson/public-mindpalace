@@ -2,7 +2,8 @@
 title: Writing
 summary: Short notes on design, engineering, and systems.
 publish: true
-tags: ["writing"]
+tags:
+  - writing
 updated: 2025-11-03
 ---
 

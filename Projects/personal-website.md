@@ -2,7 +2,12 @@
 title: Personal Website
 summary: A GitHub-hosted personal portfolio and publishing system connected to my Obsidian knowledge base.
 publish: true
-tags: ""
+tags:
+  - automation
+  - portfolio
+  - markdown
+  - github
+  - web-development
 updated: 2025-11-03
 ---
 
