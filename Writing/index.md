@@ -1,31 +1,30 @@
 ---
 title: "Writing"
-summary: "Essays, reflections, and short pieces on philosophy, technology, and human potential."
+summary: "Short notes on design, engineering, and systems."
 publish: true
-tags: [writing, essays]
+tags: [writing]
 updated: 2025-11-03
 ---
 
 # Writing
 
-Essays, reflections, and short pieces exploring philosophy, technology, and what it means to be human.
+Short notes on design, engineering, and systems. Longer pieces will be added over time.
 
 ---
 
 ## Recent
 
-*New pieces appear here as they're published.*
+*New posts will appear here as they’re published.*
 
 ---
 
-## Themes
+## Topics
 
-- **Philosophy & Truth** — Exploring belief, meaning, and how we make sense of the world
-- **Technology & Humanity** — The intersection of AI, systems, and human potential
-- **Design & Storytelling** — How narrative shapes understanding
-- **Optimism as Discipline** — Anti-nihilism, pro-humanity thinking
+- Web performance and reliability
+- Content pipelines (Markdown → site)
+- Practical UX patterns
 
 ---
 
-*This section grows as ideas crystallize from private notes into public thoughts.*
+If you want updates when new posts land, connect via [LinkedIn](https://www.linkedin.com/in/lukaspnilsson/).
 

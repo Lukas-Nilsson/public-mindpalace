@@ -1,35 +1,32 @@
 ---
 title: "Lukas Nilsson"
-summary: "Tech creative, founder, and truth seeker building at the intersection of philosophy, technology, and human potential."
+summary: "Product designer and engineer. Currently building The Human Archives."
 publish: true
 updated: 2025-11-03
 ---
 
-# Lukas Nilsson
+# Lukas
+Nilsson
 
-Tech creative, founder, and truth seeker building at the intersection of philosophy, technology, and human potential.
+Building clear, reliable products at the intersection of software and storytelling.
 
 ---
 
-## What I'm Building
+## Now
 
-I create projects that explore the relationship between humanity, technology, and meaning. Currently focused on **[The Human Archives](Projects/the-human-archives.md)** — a living museum woven through design, storytelling, and technology.
+- Shipping: **[The Human Archives](Projects/the-human-archives.md)**
+- Focus: content systems, web performance, human‑centered design
 
 ---
 
 ## Explore
 
-→ [About](/About/) — Background, philosophy, and story  
-→ [Projects](/Projects/) — Portfolio and creative works  
-→ [Writing](/Writing/) — Essays and reflections  
+- [About](/About/) — Background and principles
+- [Projects](/Projects/) — Selected work
+- [Writing](/Writing/) — Notes and posts
+- [Contact](/Contact/) — Email and links
 
 ---
 
-## Connect
-
-[Contact me](/Contact/) or find me on [GitHub](https://github.com/Lukas-Nilsson).
-
----
-
-*This site is built from my public Obsidian vault — a living knowledge base that updates as my thinking evolves.*
+Prefer results over rhetoric. This site grows as projects do.
 
