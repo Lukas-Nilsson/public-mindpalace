@@ -3,7 +3,7 @@ title: Personal Website
 summary: Rebuilding my personal website as a self-hosted, automated portfolio that documents itself.
 publish: true
 tags:
-  - web development
+  - web-development
   - automation
   - portfolio
   - github
