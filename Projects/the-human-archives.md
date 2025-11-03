@@ -1,6 +1,6 @@
 ---
 title: The Human Archives
-summary: "Clothing + digital stories. Role: founder, design & engineering. Status: in development."
+summary: "Clothing + digital stories. Role: founder, design & engineering. Status: live."
 publish: true
 tags:
   - project
@@ -33,25 +33,26 @@ The product pairs physical hoodies with NFC/QR that open artifact pages (short, 
 - NFC/QR flow → artifact page
 - Content model for artifacts (title, summary, sources, media)
 - Static site pipeline for reliability and speed
-- Early visuals and copy drafts
+- Live website with artifact stories
 
 ---
 
 ## Stack
 
-- Web: Next.js / Astro (static output)
+- Web: Static site (content-driven)
 - Content: Markdown + frontmatter from public repo
-- Deploy: GitHub Pages / Actions
+- Deploy: GitHub Pages / Actions (content); dedicated domain for site
 
 ---
 
 ## Status
 
-- Building public content pipeline
-- Prototyping artifact pages and structure
-- Preparing first small release
+- Live: https://thehumanarchives.com
+- Continuing to add artifacts and stories
 
 ---
 
-Links will be added as public pages go live.
+## Links
+
+- Website: https://thehumanarchives.com
 
