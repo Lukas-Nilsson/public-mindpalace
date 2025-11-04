@@ -112,5 +112,9 @@ Result: sustainable AI adoption that compounds over time.
 
 ---
 
-**Ready to start?** [Book a session](/coaching/) to discuss your team's needs.
+**Ready to start?** [Book a session](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss your team's needs.
+
+
+
+
 

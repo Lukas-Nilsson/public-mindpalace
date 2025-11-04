@@ -112,7 +112,7 @@ All programs include:
 
 ## Next Steps
 
-[Book a discovery call](https://calendar.google.com/calendar/appointments/schedules) to discuss:
+[Book a discovery call](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss:
 - Your team's current AI usage
 - Specific goals and challenges
 - Program scope and timeline
@@ -121,4 +121,8 @@ All programs include:
 ---
 
 **Questions?** Reach out via [email](/contact/) or [LinkedIn](https://www.linkedin.com/in/lukaspnilsson/).
+
+
+
+
 

@@ -77,11 +77,15 @@ See my [other work](/projects/) for examples of AI-assisted development.
 
 ## Get Started
 
-[Book a session](https://calendar.google.com/calendar/appointments/schedules) to discuss your team's needs.
+[Book a session](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss your team's needs.
 
 Start with a pilot session—we'll audit your current workflows, identify AI opportunities, and build a training plan tailored to your team.
 
 ---
 
 **Note:** This is an evolving practice. I work with teams that want to grow with AI, not just adopt it reactively.
+
+
+
+
 
