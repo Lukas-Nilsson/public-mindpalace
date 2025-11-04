@@ -15,6 +15,12 @@ Learn to understand, not just use, artificial intelligence.
 
 ---
 
+## [📅 Book a 1-hour coaching session →](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting)
+
+Start with a pilot session—we'll audit your current workflows, identify AI opportunities, and build a training plan tailored to your team.
+
+---
+
 ## Focus
 
 Corporate team upskilling: I work with existing teams to build AI capability. The goal is integration—not just tool training, but strategic thinking about where and how AI fits into workflows.
@@ -72,14 +78,6 @@ See my [other work](/projects/) for examples of AI-assisted development.
 - Sustainable workflows that improve over time
 - Reduced fear, increased adoption
 - Clear ROI through measured improvements
-
----
-
-## Get Started
-
-[Book a session](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss your team's needs.
-
-Start with a pilot session—we'll audit your current workflows, identify AI opportunities, and build a training plan tailored to your team.
 
 ---
 

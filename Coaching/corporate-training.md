@@ -15,6 +15,12 @@ Team upskilling programs for organizations that want to build internal AI capabi
 
 ---
 
+## [📅 Book a discovery call →](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting)
+
+Let's discuss your team's current AI usage, specific goals and challenges, program scope and timeline, and investment and outcomes.
+
+---
+
 ## Program Overview
 
 We come into existing corporate teams and upskill your employees. Focus is on integration—helping teams understand where and how AI fits into their workflows, not just learning tool features.
@@ -107,16 +113,6 @@ All programs include:
 - Session recordings and documentation
 - Follow-up support (30 days post-program)
 - Internal playbook templates
-
----
-
-## Next Steps
-
-[Book a discovery call](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss:
-- Your team's current AI usage
-- Specific goals and challenges
-- Program scope and timeline
-- Investment and outcomes
 
 ---
 

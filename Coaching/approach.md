@@ -12,6 +12,12 @@ updated: 2025-11-04
 
 ---
 
+## [📅 Book a 1-hour coaching session →](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting)
+
+Ready to start? Let's discuss your team's needs and build a custom training plan.
+
+---
+
 ## The Problem with Tool-First Training
 
 Most AI training focuses on features: "Click here, use this prompt, try that tool." This creates dependency—when tools change (and they always do), knowledge becomes obsolete.
@@ -109,10 +115,6 @@ When teams understand principles:
 - They build internal capability
 
 Result: sustainable AI adoption that compounds over time.
-
----
-
-**Ready to start?** [Book a session](https://app.reclaim.ai/m/lukas-nilsson/high-priority-meeting) to discuss your team's needs.
 
 
 
